@@ -1,14 +1,8 @@
 # ✏️ About Me:
 
-I’m an enthusiastic full-stack developer currently immersed in mastering a range of technologies and frameworks to build dynamic, user-centered applications. With a strong foundation in data structures and algorithms (DSA), I'm not only honing my coding skills but also diving deeper into optimizing and structuring data for scalable solutions.
+I’m an active competitive coder and a full-stack developer currently immersed in mastering a range of technologies and frameworks to build dynamic, user-centered applications. With a strong foundation in data structures and algorithms (DSA), I'm not only honing my coding skills but also diving deeper into optimizing and structuring data for scalable solutions.
 
-I’m actively learning Next.js to expand my skills in server-side rendering and static site generation, enhancing both the performance and SEO of my projects. Open to exploring new technologies, I’m always eager to learn, adapt, and apply the latest tools and techniques to my work.
-
-Key Areas of Focus:
-Full-Stack Development: Building responsive, efficient, and high-quality applications with a keen eye on both frontend and backend.
-Data Structures & Algorithms: Practicing problem-solving to improve logic, speed, and efficiency in coding.
-Next.js: Advancing my knowledge of modern React frameworks to stay ahead in the evolving web development landscape.
-I thrive in collaborative environments, enjoy tackling complex challenges, and am always looking for innovative solutions that enhance user experiences. If you’re into web development, DSA, or the latest in tech, let’s connect and share insights!
+I love participating in contests and pulling all nighters before a massive showdown at any hackathon.
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sh4urya.r)
@@ -19,6 +13,7 @@ I thrive in collaborative environments, enjoy tackling complex challenges, and a
 
 [![Codeforces](https://img.shields.io/badge/Codeforces-%234CC61E.svg?logo=Codeforces&logoColor=white)](https://codeforces.com/profile/Shaurya003)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/Staezr-32/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-%23A52A2A.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/shawn710)
 
 # 💻 Tech Stack:
 
