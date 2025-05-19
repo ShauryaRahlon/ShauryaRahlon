@@ -30,10 +30,13 @@ I love participating in contests and pulling all nighters before a massive showd
 ![ShauryaRahlon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShauryaRahlon&theme=radical&hide_border=true)
 <br/>
 ![ShauryaRahlon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRahlon&theme=radical&show_icons=true&hide_border=true&layout=compact)
+<br/>
+![ShauryaRahlon's Top Contribution](https://github-contributor-stats.vercel.app/api?username=ShauryaRahlon&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+
 </div>
 
 ---
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRahlon&bg_color=000000&color=ffffff&line=e51fff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shaurya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShauryaRahlon&bg_color=000000&color=ffffff&line=e51fff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![](https://visitcount.itsvg.in/api?id=ShauryaRahlon&icon=0&color=0)](https://visitcount.itsvg.in)
