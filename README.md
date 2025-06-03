@@ -3,7 +3,7 @@
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Nice to Meet You.:blush:
 # ✏️ About Me:
 
-I’m an active competitive coder and a full-stack developer currently immersed in mastering a range of technologies and frameworks to build dynamic, user-centered applications. With a strong foundation in data structures and algorithms (DSA), I'm not only honing my coding skills but also diving deeper into optimizing and structuring data for scalable solutions.
+I’m an active competitive coder and a full-stack developer, I am someone who has a deep interest in solving problems be it on leetcode or creating a platform for it, If i see a problem that interests me it becomes really hard for me to go to sleep until that is solved.
 
 I love participating in contests and pulling all nighters before a massive showdown at any hackathon.
 ## 🌐 Socials:
@@ -27,12 +27,9 @@ I love participating in contests and pulling all nighters before a massive showd
 
 ![ShauryaRahlon's Stats](https://github-readme-stats.vercel.app/api?username=ShauryaRahlon&theme=radical&show_icons=true&hide_border=true&count_private=true)
 <br/>
-![ShauryaRahlon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShauryaRahlon&theme=radical&hide_border=true)
-<br/>
 ![ShauryaRahlon's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShauryaRahlon&theme=radical&show_icons=true&hide_border=true&layout=compact)
 <br/>
-![ShauryaRahlon's Top Contribution](https://github-contributor-stats.vercel.app/api?username=ShauryaRahlon&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
+![ShauryaRahlon's Top Contribution](https://github-contributor-stats.vercel.app/api?username=ShauryaRahlon&limit=3&theme=dracula&combine_all_yearly_contributions=true)
 </div>
 
 ---
