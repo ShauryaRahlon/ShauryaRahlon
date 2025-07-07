@@ -39,3 +39,7 @@ I love participating in contests and pulling all nighters before a massive showd
 [![](https://visitcount.itsvg.in/api?id=ShauryaRahlon&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![](https://komarev.com/ghpvc/?username=ShauryaRahlon)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
